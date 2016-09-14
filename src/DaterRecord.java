@@ -13,6 +13,10 @@ public class DaterRecord {
 					   String hasPets, String wantsKids, String hasKids, String jobTitle, String favColour, String age) {
 		
 		this.firstName = firstName;
+		
+		
+		//Test
+		
 		this.familyName = familyName;
 		this.gender = gender;
 		this.eMail = eMail;
